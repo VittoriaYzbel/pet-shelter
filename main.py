@@ -10,3 +10,6 @@ def main():
 
 if __name__ == "__main__":
   main()
+
+from pets import Dog, Cat, Bird
+shelter = [Dog("Bantay", 3), Cat("Mingming", 2), Bird("Tweety", 1)]
