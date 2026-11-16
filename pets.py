@@ -26,7 +26,7 @@ class Dog(Pet):
 class Cat(Pet):
 
   def speak(self):
-    return "Meow."
+    return "Purr."
 
 class Bird(Pet):
 
